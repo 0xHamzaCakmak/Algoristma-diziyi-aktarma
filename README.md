@@ -1,0 +1,1 @@
+# Algoristma-diziyi-aktarma
