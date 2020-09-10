@@ -36,6 +36,7 @@ namespace ConsoleApplication9
                 Console.Write(dizi2[i] + " ");
             }
             Console.WriteLine();
+            Console.Write("git deneme");
             
         }
     }
